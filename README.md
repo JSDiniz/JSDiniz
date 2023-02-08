@@ -20,5 +20,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 <div align="center">
   <p align="centre"><b>Contagem de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JSDiniz}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JSDiniz}/count.svg#" /></p> 
 </div>
