@@ -1,10 +1,13 @@
-## Olá! Eu sou o Junielson Diniz - 💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e34f26&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Junielson+Diniz;I'm+31+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula)
+<div align="center">
+  <img alt-"Junielson Diniz github stats" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26"
+<!--   ![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26) -->
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,3 +17,8 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+<div align="center">
+  <p align="centre"><b>Contagem de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JSDiniz}/count.svg" /></p> 
+</div>
