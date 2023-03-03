@@ -2,8 +2,9 @@
 
 <div align="center">
     <img alt-"Junielson Diniz github stats" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26"/>
-    ![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula)
+
 </div>
+    ![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
