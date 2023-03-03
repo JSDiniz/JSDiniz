@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e34f26&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Junielson+Diniz;I'm+31+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-    <img alt-"Junielson Diniz github stats" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26"/>
+    <img height="180em" alt-"Junielson Diniz github stats" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDiniz&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
-
-![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula_color=e34f26")
 
 ## Tecnologias que eu uso no meu dia
 
