@@ -2,8 +2,7 @@
 
 <div align="center">
   <img alt-"Junielson Diniz github stats" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26"
-<!--   ![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26) -->
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSDiniz)](https://github.com/anuraghazra/github-readme-stats)
+ [![Diniz GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSDiniz)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSDiniz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
