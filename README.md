@@ -2,9 +2,9 @@
 
 <div align="center">
   <img alt-"Junielson Diniz github stats" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26"
-<!--   ![Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26) -->
+
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSDiniz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSDiniz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Tecnologias que eu uso no meu dia
 
