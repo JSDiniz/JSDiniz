@@ -6,7 +6,7 @@
 
 <div align="center">
       <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JSDiniz&show_icons=true&theme=dracula&title_color=e34f26" />
-      <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDiniz&layout=compact&theme=dracula&title_color=e34f26" /> 
+      <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDiniz&layout=compact&theme=dracula&title_color=e34f26" /> 
 </div>
 
 ## Tecnologias que eu uso no meu dia
